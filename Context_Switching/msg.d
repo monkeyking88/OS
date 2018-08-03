@@ -1,0 +1,16 @@
+msg.o: src\msg.c
+msg.o: C:\Software\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h
+msg.o: C:\Software\Keil\ARM\CMSIS\Include\core_cm3.h
+msg.o: C:\Software\Keil\ARM\ARMCC\bin\..\include\stdint.h
+msg.o: C:\Software\Keil\ARM\CMSIS\Include\core_cmInstr.h
+msg.o: C:\Software\Keil\ARM\CMSIS\Include\core_cmFunc.h
+msg.o: C:\Software\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+msg.o: src\msg.h
+msg.o: src\memoryBlock.h
+msg.o: src\k_rtx.h
+msg.o: src\msg.h
+msg.o: src\k_process.h
+msg.o: src\generic_queue.h
+msg.o: src\Timer.h
+msg.o: src\printf.h
+msg.o: C:\Software\Keil\ARM\ARMCC\bin\..\include\stdarg.h

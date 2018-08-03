@@ -1,0 +1,11 @@
+wall_clock.o: src\wall_clock.c
+wall_clock.o: src\wall_clock.h
+wall_clock.o: src\msg.h
+wall_clock.o: src\memoryBlock.h
+wall_clock.o: src\k_rtx.h
+wall_clock.o: src\msg.h
+wall_clock.o: src\KCD.h
+wall_clock.o: src\k_memory.h
+wall_clock.o: src\memoryBlock.h
+wall_clock.o: src\k_process.h
+wall_clock.o: src\generic_queue.h

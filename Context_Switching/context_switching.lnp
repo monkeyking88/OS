@@ -1,0 +1,5 @@
+--cpu Cortex-M3 "startup_lpc17xx.o" "system_lpc17xx.o" "hal.o" "k_memory.o" "k_process.o" "k_rtx_init.o" "main_svc.o" "uart_polling.o" "timer.o" "msg.o" "crt.o" "kcd.o" "printf.o" "stress.o" "generic_queue.o" "wall_clock.o" "usr_proc.o" 
+--strict --scatter "context_switching.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\context_switching.map" -o context_switching.axf

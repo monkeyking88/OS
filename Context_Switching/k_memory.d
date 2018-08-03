@@ -1,0 +1,14 @@
+k_memory.o: src\k_memory.c
+k_memory.o: src\k_memory.h
+k_memory.o: src\k_rtx.h
+k_memory.o: src\memoryBlock.h
+k_memory.o: src\msg.h
+k_memory.o: src\memoryBlock.h
+k_memory.o: src\msg.h
+k_memory.o: src\k_process.h
+k_memory.o: src\generic_queue.h
+k_memory.o: src\memoryBlock.h
+k_memory.o: src\uart_polling.h
+k_memory.o: C:\Software\Keil\ARM\ARMCC\bin\..\include\stdint.h
+k_memory.o: src\printf.h
+k_memory.o: C:\Software\Keil\ARM\ARMCC\bin\..\include\stdarg.h

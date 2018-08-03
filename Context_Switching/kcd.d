@@ -1,0 +1,10 @@
+kcd.o: src\KCD.c
+kcd.o: src\KCD.h
+kcd.o: src\msg.h
+kcd.o: src\memoryBlock.h
+kcd.o: src\k_rtx.h
+kcd.o: src\msg.h
+kcd.o: src\k_memory.h
+kcd.o: src\memoryBlock.h
+kcd.o: src\k_process.h
+kcd.o: src\generic_queue.h
